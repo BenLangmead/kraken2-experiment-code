@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <unordered_map>
 #include <err.h>
 #include <sysexits.h>
 
